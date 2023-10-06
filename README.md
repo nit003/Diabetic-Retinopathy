@@ -1,1 +1,1 @@
-# CodeClause_Diabetic-Retinopathy
+# Diabetic-Retinopathy
